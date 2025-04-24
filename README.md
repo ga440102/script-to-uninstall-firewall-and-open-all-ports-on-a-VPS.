@@ -1,0 +1,1 @@
+# script-to-uninstall-firewall-and-open-all-ports-on-a-VPS.
